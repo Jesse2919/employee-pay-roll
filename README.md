@@ -1,6 +1,6 @@
 # employee-pay-roll
 
-Description
+#Description:
 This website is opperated using java-script.
  This is a employee pay roll spreadsheet website that allows the user to add there name and salary.
  After each employee adds their first and last name the system allows you to also add their anual salary.
